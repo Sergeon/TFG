@@ -7,7 +7,7 @@ Con este notebook intentaremos ilustrar y comprender el uso de clustering para l
 ### Tareas hechas hasta ahora
 
 - Aprender sobre **scikit-learn**, **pandas** y **numpy** principalmente.
-- Extracción de los datos de Kaggle, concretamente de la [European Soccer Database](https://www.kaggle.com/hugomathien/soccer)
+- Extracción de los datos de Kaggle, concretamente de la [European Soccer Database](https://www.kaggle.com/hugomathien/soccer).
 - Limpieza del dataset.
 - Tratado de los datos para obtener las *features* que necesitamos.
 - Mapeo de los *ratings* de los jugadores para cada partido, teniendo en cuenta las fechas de los mismos.
@@ -20,13 +20,13 @@ Con este notebook intentaremos ilustrar y comprender el uso de clustering para l
 - Ordenar las variables de cada grupo en función cómo correlan con la variable que queremos predecir.
 - Hacer todas las combinaciones de modelos de manera que para cada modelo se utilice una variable de cada grupo.
 - Ordenar todos los modelos por *accuracy* y hacer la elección.
-- Aprender como funcionan los *ensemble methods*
-- Aplicar un *ensemble method* a la salida de todos los modelos para hacer la predicción final y ver el resultado
+- Aprender como funcionan los *ensemble methods*.
+- Aplicar un *ensemble method* a la salida de todos los modelos para hacer la predicción final y ver el resultado.
 
 ### Tareas que quedan por hacer
 
-- Ninguna
+- Ninguna. :-D
 
 ### Tareas bloqueantes
 
-- Ninguna
+- Ninguna. :-D
